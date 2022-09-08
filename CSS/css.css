@@ -1,8 +1,24 @@
 
 #titulo{
-    color: white ;
-    font-size: xx-large;
-   }   
-   .container-fluid{   
-      margin-left: 40%;   
-   }
+   color: white ;
+   font-size: xx-large;
+  }   
+  .container-fluid{   
+     margin-left: 40%;   
+  }
+
+
+
+#img001{
+   margin:auto;
+  display:block;
+   margin-top: 5%;
+   margin-bottom: 5%;
+   height: 400px;
+   border-style: solid;
+   border: 1px solid grey;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 350px;
+   padding-right: 350px;
+}
